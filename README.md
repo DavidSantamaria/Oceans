@@ -9,4 +9,4 @@ oceans-qt-linux.tar: https://1drv.ms/u/s!AnfxPZJvnghviP4Ww1wUbEib2DfI_Q
 
 oceans-daemon-linux.tar: https://1drv.ms/u/s!AnfxPZJvnghviP4X5JdFyhfZjsnZHg
 
-The logo (1024x1024): https://imgur.com/61GqyXR
+Sorry for the logo default. Will be fixed. Some coders will, I mean.
