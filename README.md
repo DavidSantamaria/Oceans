@@ -1,6 +1,10 @@
 # Oceans | For Nightlife, the United Kingdom, Farms and Boats.
 [ANN] https://bitcointalk.org/index.php?topic=5087713.msg48792865#msg48792865
 
+Site: https://davidsantamaria.github.io/Om/
+
+Discord: https://discord.gg/Ug4wVfSvFH
+
 Source Code: https://1drv.ms/u/s!AnfxPZJvnghviYQpa_GGujLZMOV6yQ
 
 oceans-qt-windows: https://1drv.ms/u/s!AnfxPZJvnghviP4Utnj9sci2yltbFA
